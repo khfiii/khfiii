@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning laravel
+Full Stack Learner
 
 
 ## 🌐 Socials:
