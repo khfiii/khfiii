@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Learner
+Full Stack Learner. 
 
 
 ## 🌐 Socials:
